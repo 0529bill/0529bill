@@ -13,7 +13,7 @@
 
 
 - 🌐 &nbsp;
-  HTML5, Css, Scss, boostrap
+  HTML5, Css, Scss, bootstrap
   Javascript, react, redux
   
 
