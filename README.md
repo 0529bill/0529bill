@@ -27,7 +27,6 @@
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0529bill&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0529bill&theme=buefy&layout=compact" />
 </a>
 
 <br/>
