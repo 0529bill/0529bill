@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**0529bill/0529bill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> Hey there! I'm bill.</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying English literature and Big data at SooChow University.
+- 🏄 &nbsp; in love with surfing
+
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+
+- 🌐 &nbsp;
+  HTML5, Css, Scss, boostrap
+  Javascript, react, redux
+  
+
+- ⚙️ &nbsp;
+  git, github, markdown
+
+- 🔧 &nbsp;
+  Visual Studio code
+
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0529bill&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0529bill&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.adityavsingh.com/">
+</p>
