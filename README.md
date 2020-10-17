@@ -33,5 +33,5 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="https://www.adityavsingh.com/">
-<a href='https://www.cakeresume.com/water-lin-c9114f'>
+
+[My Resume](https://www.cakeresume.com/water-lin-c9114f)
