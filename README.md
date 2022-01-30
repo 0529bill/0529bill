@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying English literature and Big data at SooChow University.
+- 🎓 &nbsp; Studied English literature and Big data at SooChow University.
 - 🏄 &nbsp; in love with surfing
 
 
@@ -14,7 +14,7 @@
 
 - 🌐 &nbsp;
   HTML5, Css, Scss, bootstrap
-  Javascript, react, redux
+  Javascript, react, redux, Typescript
   
 
 - ⚙️ &nbsp;
