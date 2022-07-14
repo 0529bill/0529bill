@@ -13,12 +13,21 @@
 
 
 - 🌐 &nbsp;
-  HTML5, Css, Scss, bootstrap
-  Javascript, react, redux, Typescript
+  Javascript, Typescript
   
+- ⚛️ &nbsp;
+  React, redux, react-query
+  
+- :computer: &nbsp;
+  Node.js, Express, mongoDB, mongoose
+ 
+- :pencil2: &nbsp;
+  HTML5, css, scss, bootstrap, antd
 
 - ⚙️ &nbsp;
   git, github, markdown
+  
+  
 
 - 🔧 &nbsp;
   Visual Studio code
@@ -33,5 +42,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-[portfolio](https://0529bill.github.io/portfolio/#/portfolio)
-[My Resume](https://www.cakeresume.com/water-lin-c9114f)
+
+[blog](https://medium.com/@bywater529)
+
+[portfolio](https://0529bill.github.io/portfolio/#/portfolio)  
+
+[My Resume](https://www.cakeresume.com/water-lin-c9114f)  
+
