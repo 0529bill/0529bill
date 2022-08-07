@@ -45,7 +45,9 @@
 
 [blog](https://medium.com/@bywater529)
 
+[tech-blog](https://0529bill.github.io/bywater-blog/)
+
 [portfolio](https://0529bill.github.io/portfolio/#/portfolio)  
 
-[My Resume](https://www.cakeresume.com/water-lin-c9114f)  
+[My Resume](https://0529bill.github.io/portfolio/#/portfolio/Resume)  
 
