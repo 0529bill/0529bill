@@ -4,33 +4,44 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied English literature and Big data at SooChow University.
-- 🏄 &nbsp; in love with surfing
+-  &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+-  &nbsp; Studied English literature and Big data at SooChow University.
+-  &nbsp; in love with surfing
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stacks</h3>
 
-
-- 🌐 &nbsp;
+Frontend
+-  &nbsp;
   Javascript, Typescript
   
-- ⚛️ &nbsp;
+-  &nbsp;
   React, redux, react-query
-  
-- :computer: &nbsp;
-  Node.js, Express, mongoDB, mongoose
- 
-- :pencil2: &nbsp;
+-  &nbsp;
   HTML5, css, scss, bootstrap, antd
+  
+  
+Backend
+  
+-  &nbsp;
+  Node.js, Express, mongoDB, mongoose
 
-- ⚙️ &nbsp;
+
+Version Control:
+
+-  &nbsp;
   git, github, markdown
   
-  
+IDE:
 
-- 🔧 &nbsp;
+- &nbsp;
   Visual Studio code
+  
+  
+Languages: 
+
+- Chinese(native)
+- English(fluent)
 
 <br/>
 
