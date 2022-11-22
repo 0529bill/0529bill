@@ -17,8 +17,12 @@ Frontend
   
 -  &nbsp;
   React, redux, react-query
+  
 -  &nbsp;
-  HTML5, css, scss, bootstrap, antd
+  Vite, HTML5, css, scss, styled-components, css modules
+  
+- &nbsp;
+   bootstrap, antd
   
   
 Backend
