@@ -6,7 +6,7 @@
 
 -  &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 -  &nbsp; Studied English literature and Big data at SooChow University.
--  &nbsp; in love with surfing
+-  &nbsp; in love with surfing and rock climbing
 
 
 <h3> 🛠 &nbsp;Tech Stacks</h3>
@@ -24,22 +24,20 @@ Frontend
 - &nbsp;
    bootstrap, antd
   
-  
+
+Currently learning:  
+
+Frontend
+
+
+- Next.js 
+
+
 Backend
   
 -  &nbsp;
   Node.js, Express, mongoDB, mongoose
 
-
-Version Control:
-
--  &nbsp;
-  git, github, markdown
-  
-IDE:
-
-- &nbsp;
-  Visual Studio code
   
   
 Languages: 
@@ -58,11 +56,9 @@ Languages:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 
-[blog](https://medium.com/@bywater529)
+[medium](https://medium.com/@bywater529)
 
 [tech-blog](https://0529bill.github.io/bywater-blog/)
-
-[portfolio](https://0529bill.github.io/portfolio/#/portfolio)  
 
 [My Resume](https://0529bill.github.io/portfolio/#/portfolio/Resume)  
 
